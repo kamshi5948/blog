@@ -7,7 +7,6 @@ author:
   email: "dyutibarma@gmail.com"
   url: "https://thereviewindex.com"
 
-# Build settings
 baseurl: /blog # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .

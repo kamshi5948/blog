@@ -1,7 +1,7 @@
 # Site settings
 title: "Kamshi"
-description: "A minimal, responsive, ready to use blog template, built with Jekyll."
-url: "https://kamshi5948.github.io/blog"
+description: "kamshi !!"
+url: "https://localhost:4000/blog"
 author:
   name: "The Review Index"
   email: "dyutibarma@gmail.com"
@@ -9,7 +9,7 @@ author:
 
 
 # Build settings
-baseurl: "https://kamshi5948.github.io/blog" # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: "/blog" # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
